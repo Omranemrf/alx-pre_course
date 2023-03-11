@@ -1,2 +1,2 @@
 #!/bin/bash
-touch "The school is open!"
+touch "The school is open!" 1
